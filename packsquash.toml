@@ -1,0 +1,2 @@
+pack_directory = "pack"
+output_file_path = "build/pack.zip"
